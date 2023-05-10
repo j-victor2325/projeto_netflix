@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+}
+
+.netflix_img{
+    max-width: 19%;
+}
+
+.btn {
+    color: white;
+    background: red;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    border: 0px;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+h1{
+    font-size: 34px;
+}
+
+.center {
+    text-align: center;
+}
+
+.paragrafo_18px{
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
