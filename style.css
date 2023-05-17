@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-image: src=("/fundo.png" widht="100px");
 }
 
 .netflix_img{
